@@ -1804,7 +1804,7 @@
 #endif /*LV_USE_QNX*/
 
 /** Open a window on a PC desktop with SDL2 and read mouse and keyboard input. */
-#define LV_USE_SDL 0
+#define LV_USE_SDL 1
 
 #if LV_USE_SDL
 /** SDL include path */
@@ -1920,7 +1920,7 @@
 #endif /*LV_USE_OS == LV_OS_WINDOWS*/
 
 /** Open a window on an X11 desktop and read mouse and keyboard input. */
-#define LV_USE_X11 1
+#define LV_USE_X11 0
 
 #if LV_USE_X11
 /** Double buffering */
