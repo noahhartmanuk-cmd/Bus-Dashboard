@@ -18,3 +18,9 @@ This is very much not complete however I have got LVGL set up and the basic layo
 
 * Finally: run the binary with `build/bus-dashboard`
 
+### Option 2: Run Appimage
+
+#### Ensure that you have sdl2 installed, some distros ship with it e.g. Manjaro and some don't e.g. Fedora
+
+* Step 1: Download latest [Appimage](https://github.com/noahhartmanuk-cmd/Bus-Dashboard/releases/)
+* Step 2: Make executable with `chmod +x /path/to/appimage`
