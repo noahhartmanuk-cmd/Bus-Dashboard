@@ -2,6 +2,8 @@
 
 This is very much not complete however I have got LVGL set up and the basic layout set up!
 
+Do bear in mind that this only works on Linux systems as of yet I have not baked in Windows support, however it may work on mac and if you are cool enough to run a bsd system it may run on that but for both cases you need to compile from source and it has not been tested to work :)
+
 ## How to run:
 
 ### Option 1: Compile from source
